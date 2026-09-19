@@ -1,0 +1,6 @@
+{
+  "name": "Prism Agile - 3D Perspective Project Management",
+  "description": "Multi-user agile project management software featuring 3D polyhedral tickets with configurable perspectives for developers, team leads, managers, and OKR alignment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
